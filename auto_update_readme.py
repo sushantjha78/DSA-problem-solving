@@ -5,10 +5,10 @@ def create_readme(folder_path):
     files = os.listdir(folder_path)
 
     # Create the Markdown content
-    markdown_content = '''# DSA-problem-solving\n
-                            An organized step to brushing-up my problem solving skills regularly.\n\n
-                            ![Leetcode Stats](https://leetcard.jacoblin.cool/sushanthkumar78)\n\n
-                        '''
+    markdown_content = "# DSA-problem-solving\n"
+    markdown_content += "An organized step to brushing-up my problem solving skills regularly.\n\n"
+    markdown_content += "![Leetcode Stats](https://leetcard.jacoblin.cool/sushanthkumar78)\n\n"
+
     markdown_content += "## List of Problems solved on LeetCode (updated automatically):\n\n"
     markdown_content += "| Problem No. | Problem Name | View Question | View My Code |\n"
     markdown_content += "| ----------- | ------------ | ------------- | ------------ |\n"

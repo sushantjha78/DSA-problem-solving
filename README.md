@@ -1,12 +1,9 @@
 # DSA-problem-solving
+An organized step to brushing-up my problem solving skills regularly.
 
-                            An organized step to brushing-up my problem solving skills regularly.
+![Leetcode Stats](https://leetcard.jacoblin.cool/sushanthkumar78)
 
-
-                            ![Leetcode Stats](https://leetcard.jacoblin.cool/sushanthkumar78)
-
-
-                        ## List of Problems solved on LeetCode (updated automatically):
+## List of Problems solved on LeetCode (updated automatically):
 
 | Problem No. | Problem Name | View Question | View My Code |
 | ----------- | ------------ | ------------- | ------------ |
