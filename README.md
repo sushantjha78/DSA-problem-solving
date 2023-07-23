@@ -33,5 +33,5 @@
 
 | Problem No. | View Question | View My Code |
 | ----------- | ------------- | ------------ |
-| 1853 | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](./Codeforces\1853A.py) |
-| 1853 | [Question](https://codeforces.com/contest/1853/problem/B) | [Solution](./Codeforces\1853B.py) |
+| 1853A | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](./Codeforces\1853A.py) |
+| 1853B | [Question](https://codeforces.com/contest/1853/problem/B) | [Solution](./Codeforces\1853B.py) |

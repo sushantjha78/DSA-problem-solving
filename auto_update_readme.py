@@ -58,7 +58,7 @@ def create_readme(folder_path):
         s_markdown_url = "[Solution](" + s_url + ")"
 
         # formatting
-        markdown_content += f"| {problem_num} | {q_markdown_url} | {s_markdown_url} |\n"
+        markdown_content += f"| {problem_name} | {q_markdown_url} | {s_markdown_url} |\n"
 
     # Write the Markdown content to the README.md file
     with open("README.md", "w") as file:
