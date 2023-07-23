@@ -9,9 +9,11 @@ An organized step to brushing-up my problem solving skills regularly.
 | ----------- | ------------ | ------------- | ------------ |
 | 1 | Two Sum | [Question](https://leetcode.com/problems/two-sum/) | [Solution](./Leetcode\1.two-sum.py) |
 | 1143 | Longest Common Subsequence | [Question](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./Leetcode\1143.longest-common-subsequence.py) |
+| 121 | Best Time To Buy And Sell Stock | [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./Leetcode\121.best-time-to-buy-and-sell-stock.py) |
 | 125 | Valid Palindrome | [Question](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Leetcode\125.valid-palindrome.py) |
 | 13 | Roman To Integer | [Question](https://leetcode.com/problems/roman-to-integer/) | [Solution](./Leetcode\13.roman-to-integer.py) |
 | 14 | Longest Common Prefix | [Question](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./Leetcode\14.longest-common-prefix.py) |
+| 20 | Valid Parentheses | [Question](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Leetcode\20.valid-parentheses.py) |
 | 21 | Merge Two Sorted Lists | [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./Leetcode\21.merge-two-sorted-lists.py) |
 | 217 | Contains Duplicate | [Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Leetcode\217.contains-duplicate.py) |
 | 242 | Valid Anagram | [Question](https://leetcode.com/problems/valid-anagram/) | [Solution](./Leetcode\242.valid-anagram.py) |
