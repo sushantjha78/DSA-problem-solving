@@ -1,5 +1,5 @@
 # DSA-problem-solving
-An organized step to brushing-up my problem solving skills regularly.
+#### An organized step to brushing-up my problem solving skills regularly.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sushanthkumar78)
 
@@ -23,3 +23,15 @@ An organized step to brushing-up my problem solving skills regularly.
 | 3 | Longest Substring Without Repeating Characters | [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./Leetcode\3.longest-substring-without-repeating-characters.py) |
 | 49 | Group Anagrams | [Question](https://leetcode.com/problems/group-anagrams/) | [Solution](./Leetcode\49.group-anagrams.py) |
 | 9 | Palindrome Number | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](./Leetcode\9.palindrome-number.py) |
+
+
+![](https://raw.githubusercontent.com/sushantjha78/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+
+
+## List of Problems solved on Codeforces (updated automatically):
+
+| Problem No. | View Question | View My Code |
+| ----------- | ------------- | ------------ |
+| 1853 | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](./Codeforces\1853A.py) |
+| 1853 | [Question](https://codeforces.com/contest/1853/problem/B) | [Solution](./Codeforces\1853B.py) |
