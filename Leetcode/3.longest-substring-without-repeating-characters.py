@@ -21,9 +21,9 @@ class Solution:
                     if ord(s[j]) == ord(s[i]):
                         curr_len = i-j
                         start = j+1
-                        tally[ord(s[j])] == 1
+                        break
                     else:
-                        tally[ord(s[j])] == 0
+                        tally[ord(s[j])] = 0
 
         return max_len
 
