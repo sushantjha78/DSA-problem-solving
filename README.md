@@ -21,8 +21,10 @@
 | 27 | Remove Element | [Question](https://leetcode.com/problems/remove-element/) | [Solution](./Leetcode\27.remove-element.py) |
 | 28 | Find The Index Of The First Occurrence In A String | [Question](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./Leetcode\28.find-the-index-of-the-first-occurrence-in-a-string.py) |
 | 3 | Longest Substring Without Repeating Characters | [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./Leetcode\3.longest-substring-without-repeating-characters.py) |
+| 35 | Search Insert Position | [Question](https://leetcode.com/problems/search-insert-position/) | [Solution](./Leetcode\35.search-insert-position.py) |
 | 49 | Group Anagrams | [Question](https://leetcode.com/problems/group-anagrams/) | [Solution](./Leetcode\49.group-anagrams.py) |
 | 5 | Longest Palindromic Substring | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./Leetcode\5.longest-palindromic-substring.py) |
+| 58 | Length Of Last Word | [Question](https://leetcode.com/problems/length-of-last-word/) | [Solution](./Leetcode\58.length-of-last-word.py) |
 | 704 | Binary Search | [Question](https://leetcode.com/problems/binary-search/) | [Solution](./Leetcode\704.binary-search.py) |
 | 9 | Palindrome Number | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](./Leetcode\9.palindrome-number.py) |
 
