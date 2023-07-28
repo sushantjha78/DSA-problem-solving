@@ -13,6 +13,9 @@
 | 125 | Valid Palindrome | [Question](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Leetcode\125.valid-palindrome.py) |
 | 13 | Roman To Integer | [Question](https://leetcode.com/problems/roman-to-integer/) | [Solution](./Leetcode\13.roman-to-integer.py) |
 | 14 | Longest Common Prefix | [Question](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./Leetcode\14.longest-common-prefix.py) |
+| 168 | Excel Sheet Column Title | [Question](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./Leetcode\168.excel-sheet-column-title.py) |
+| 169 | Majority Element | [Question](https://leetcode.com/problems/majority-element/) | [Solution](./Leetcode\169.majority-element.py) |
+| 171 | Excel Sheet Column Number | [Question](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./Leetcode\171.excel-sheet-column-number.py) |
 | 20 | Valid Parentheses | [Question](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Leetcode\20.valid-parentheses.py) |
 | 21 | Merge Two Sorted Lists | [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./Leetcode\21.merge-two-sorted-lists.py) |
 | 217 | Contains Duplicate | [Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Leetcode\217.contains-duplicate.py) |
