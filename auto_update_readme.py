@@ -25,7 +25,7 @@ def create_readme(folder_path):
         problem_num, problem_name, _ = file.split(".")
 
         q_url = "https://leetcode.com/problems/"+problem_name+"/"
-        s_url = os.path.join(folder_path[0], file)
+        s_url = folder_path[0] + '/' + file
 
         q_markdown_url = "[Question](" + q_url + ")"
         s_markdown_url = "[Solution](" + s_url + ")"
