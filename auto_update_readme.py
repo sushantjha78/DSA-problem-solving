@@ -1,5 +1,6 @@
 import os
 
+import re
 
 def create_readme(folder_path):
 
@@ -17,6 +18,7 @@ def create_readme(folder_path):
 
     # Get the list of files in the Leetcode folder
     files = os.listdir(folder_path[0])
+    files.sort(key=lambda f: int(re.sub('\D', '', f)))
 
     for file in files:
 
