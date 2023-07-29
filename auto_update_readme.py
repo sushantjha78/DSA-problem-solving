@@ -54,7 +54,7 @@ def create_readme(folder_path):
 
         q_url = "https://codeforces.com/contest/" + \
             problem_num + "/problem/" + problem_subtype
-        s_url = os.path.join(folder_path[1], file)
+        s_url = folder_path[1] + '/' + file
 
         q_markdown_url = "[Question](" + q_url + ")"
         s_markdown_url = "[Solution](" + s_url + ")"

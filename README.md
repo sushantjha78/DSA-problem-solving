@@ -29,6 +29,9 @@
 | 171 | Excel Sheet Column Number | [Question](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./Leetcode/171.excel-sheet-column-number.py) |
 | 217 | Contains Duplicate | [Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Leetcode/217.contains-duplicate.py) |
 | 242 | Valid Anagram | [Question](https://leetcode.com/problems/valid-anagram/) | [Solution](./Leetcode/242.valid-anagram.py) |
+| 263 | Ugly Number | [Question](https://leetcode.com/problems/ugly-number/) | [Solution](./Leetcode/263.ugly-number.py) |
+| 278 | First Bad Version | [Question](https://leetcode.com/problems/first-bad-version/) | [Solution](./Leetcode/278.first-bad-version.py) |
+| 292 | Nim Game | [Question](https://leetcode.com/problems/nim-game/) | [Solution](./Leetcode/292.nim-game.py) |
 | 704 | Binary Search | [Question](https://leetcode.com/problems/binary-search/) | [Solution](./Leetcode/704.binary-search.py) |
 | 1143 | Longest Common Subsequence | [Question](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./Leetcode/1143.longest-common-subsequence.py) |
 | 2402 | Meeting Rooms Iii | [Question](https://leetcode.com/problems/meeting-rooms-iii/) | [Solution](./Leetcode/2402.meeting-rooms-iii.py) |
@@ -42,5 +45,5 @@
 
 | Problem No. | View Question | View My Code |
 | ----------- | ------------- | ------------ |
-| 1853A | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](./Codeforces\1853A.py) |
-| 1853B | [Question](https://codeforces.com/contest/1853/problem/B) | [Solution](./Codeforces\1853B.py) |
+| 1853A | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](./Codeforces/1853A.py) |
+| 1853B | [Question](https://codeforces.com/contest/1853/problem/B) | [Solution](./Codeforces/1853B.py) |
