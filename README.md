@@ -34,6 +34,8 @@
 | 292 | Nim Game | [Question](https://leetcode.com/problems/nim-game/) | [Solution](./Leetcode/292.nim-game.py) |
 | 704 | Binary Search | [Question](https://leetcode.com/problems/binary-search/) | [Solution](./Leetcode/704.binary-search.py) |
 | 1143 | Longest Common Subsequence | [Question](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./Leetcode/1143.longest-common-subsequence.py) |
+| 1161 | Maximum Level Sum Of A Binary Tree | [Question](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Solution](./Leetcode/1161.maximum-level-sum-of-a-binary-tree.py) |
+| 1812 | Determine Color Of A Chessboard Square | [Question](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solution](./Leetcode/1812.determine-color-of-a-chessboard-square.py) |
 | 2402 | Meeting Rooms Iii | [Question](https://leetcode.com/problems/meeting-rooms-iii/) | [Solution](./Leetcode/2402.meeting-rooms-iii.py) |
 
 
@@ -45,5 +47,5 @@
 
 | Problem No. | View Question | View My Code |
 | ----------- | ------------- | ------------ |
-| 1853A | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](./Codeforces/1853A.py) |
 | 1853B | [Question](https://codeforces.com/contest/1853/problem/B) | [Solution](./Codeforces/1853B.py) |
+| 1853A | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](./Codeforces/1853A.py) |
