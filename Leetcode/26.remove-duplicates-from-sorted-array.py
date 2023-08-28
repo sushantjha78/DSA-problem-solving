@@ -7,19 +7,24 @@
 # @lc code=start
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        hashmap = {}
-        uniques = 0
-        for num in nums:
-            if num not in hashmap:
-                uniques += 1
-                hashmap[num] = 1
-            else:
-                hashmap[num] += 1
+        visited = [nums[0]]
+        for i in nums:
+            if i != visited[-1]:
+                visited.append(i)
 
-        j = 0
-        while j < len(nums):
-            if hashmap[nums[j]] > 1:
-                nums[j] = nums[j+]
+        # uniques = len(visited)
+        # for i in range(len(nums)):
+        #     if i < uniques:
+        #         nums
+
+        k = len(visited)
+        # for i in range(len(nums) - k):
+        #     visited.append('_')
+
+
+        nums[:k] = visited
+
+        return k
 
 
 # @lc code=end
